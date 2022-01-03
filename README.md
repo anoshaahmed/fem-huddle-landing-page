@@ -42,7 +42,7 @@ The mobile design VS My mobile solution<br>
 ### Links
 
 - Solution URL: [FrontEnd Mentor: My Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-flexbox-mobilefirst-responsive-JV8-k3r0e)
-- Live Site URL: [GitHub Page: Single Price Grid Component](https://anoshaahmed.github.io/huddle-landing-page)
+- Live Site URL: [GitHub Page: Single Price Grid Component](https://anoshaahmed.github.io/fem-huddle-landing-page)
 
 ## My process
 
